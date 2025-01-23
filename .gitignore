@@ -371,3 +371,6 @@ DigiGamesShop/Migrations
 /DigiGameShop/Migrations/20250121044257_Key-Implementation.cs
 /DigiGameShop/Migrations/20250123023151_Int-To-Float.cs
 /DigiGameShop/Migrations/DigiGameShopDbContextModelSnapshot.cs
+/DigiGameShop/Migrations/20250119042304_Initial-Migrate.Designer.cs
+/DigiGameShop/Migrations/20250121044257_Key-Implementation.Designer.cs
+/DigiGameShop/Migrations/20250123023151_Int-To-Float.Designer.cs
