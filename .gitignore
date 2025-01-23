@@ -364,3 +364,10 @@ FodyWeavers.xsd
 
 DigiGamesShop/Database/DigiGamesShop.db
 DigiGamesShop/Migrations
+/DigiGameShop/Database/DigiGameShop.db
+/DigiGameShop/Database/DigiGameShop.db-shm
+/DigiGameShop/Database/DigiGameShop.db-wal
+/DigiGameShop/Migrations/20250119042304_Initial-Migrate.cs
+/DigiGameShop/Migrations/20250121044257_Key-Implementation.cs
+/DigiGameShop/Migrations/20250123023151_Int-To-Float.cs
+/DigiGameShop/Migrations/DigiGameShopDbContextModelSnapshot.cs
