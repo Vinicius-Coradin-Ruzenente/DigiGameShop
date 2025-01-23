@@ -362,5 +362,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-./Database/DigiGamesShop.db
-./Migrations
+DigiGamesShop/Database/DigiGamesShop.db
+DigiGamesShop/Migrations
